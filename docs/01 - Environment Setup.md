@@ -52,6 +52,8 @@ Keeping domain traffic on an isolated internal network means any attack simulati
 
 <img width="431" height="218" alt="adapter1" src="https://github.com/user-attachments/assets/18dbb789-bfb3-4868-ac53-39d0466a2abf" />
 
+
+
 <img width="421" height="224" alt="adapter2" src="https://github.com/user-attachments/assets/a4581aad-0304-458d-961f-fe3ba37b8dcf" />
 
 <!-- End of picture text -->
