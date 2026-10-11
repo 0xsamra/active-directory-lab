@@ -8,7 +8,7 @@ Create the virtual machine that will become the Domain Controller (DC) for the A
 
 # **Tools Used** 
 
-**Tool Purpose** VirtualBox Hypervisor that runs the lab VMs Windows Server 2025 Operating system for the Domain Controller (free 180-day Evaluation ISO evaluation from Microsoft Evaluation Center) 
+**Tool Purpose** VirtualBox Hypervisor that runs the lab VMs Windows Server 2025 Operating system for the Domain Controller (free 180-day Evaluation ISO evaluation from Microsoft Evaluation Center)
 
 # **VM Specifications** 
 
