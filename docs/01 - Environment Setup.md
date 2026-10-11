@@ -27,7 +27,14 @@ Unattended install  Skipped (manual installation, to learn each setup step)
 
 
 <!-- Start of picture text -->
-Nid Mao a<br>> Specify virtual hardware<br>> Virtual machine name and operating system<br><!-- End of picture text -->
+<img width="596" height="410" alt="scrnshot1" src="https://github.com/user-attachments/assets/f8aebefe-90a4-4595-ab34-7297e157d40f" />
+
+<img width="686" height="410" alt="scrnshot2 harddisk" src="https://github.com/user-attachments/assets/befaa188-37f4-4dcc-bb28-34bceb82b798" />
+
+<img width="683" height="412" alt="virtual harddisk scrnshot3" src="https://github.com/user-attachments/assets/f06a6ea2-a076-4761-80c8-be06070e7cb3" />
+
+
+<!-- End of picture text -->
 
 
 
@@ -42,19 +49,22 @@ Keeping domain traffic on an isolated internal network means any attack simulati
 
 
 <!-- Start of picture text -->
-Network<br>@ Enable Network Adapter<br><!-- End of picture text -->
 
+<img width="431" height="218" alt="adapter1" src="https://github.com/user-attachments/assets/18dbb789-bfb3-4868-ac53-39d0466a2abf" />
 
+<img width="421" height="224" alt="adapter2" src="https://github.com/user-attachments/assets/a4581aad-0304-458d-961f-fe3ba37b8dcf" />
 
-<!-- Start of picture text -->
-Network<br>Adapter?  Adapter2 Adapter3 Adapter4<br>@ Enable Network Adapter<br>Attached to Internal Network v<br>co ES The way this virtual adapter is attachedt<br>Adapter Type Intel PRO/1000 MT Desktop (82540EM) v<br>Promiscuous Mode Deny V<br>MAC Address 080027190198 °<br>@ Virtual Cable Connected<br><!-- End of picture text -->
+<!-- End of picture text -->
+
 
 # **Final VM Summary** 
 
 
 
 <!-- Start of picture text -->
-Gos Gg HG AF<br>General DD Preview<br>Name AD-DCOt<br>IE system<br>Base Memory: 4096 MB AD-DCO1<br>Boot Order: Floppy, Optical, Hard Disk<br>Acceleration: Nested Paging, Hyper-V Paravrtualization<br>D display<br>Recording Disabled<br>Storage<br>SATA Port1: (Optical Drive] 26100.32230.260111-0550.t release svc.refresh SERVER EVAL x64FRE_en-usiso (7.59 GB)<br>Problems Faced Audio<br>Controller: Intel<br>HD Audio<br>ISO download timeout. IB Network  The Microsoft Evaluation Center page loaded and registration worked,<br>but the file download failed with ERR_CONNECTION_TIMED_OUT from the download server  AdapterAdapter1: Intel2:_Intel PRO/1000PRO/1000 MT Desktop (Internal(NAT) Network, ‘adlab})<br><!-- End of picture text -->
+<img width="527" height="395" alt="main panel" src="https://github.com/user-attachments/assets/757237ba-0342-408d-bce3-2240d4635464" />
+
+<!-- End of picture text -->
 
 (software-static.download.prss.microsoft.com). This was a connection issue between my network and Microsoft's file server, not a problem with the page itself. 
 
