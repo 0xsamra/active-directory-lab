@@ -36,3 +36,24 @@
 
 <!-- End of picture text -->
 
+<img width="1024" height="768" alt="edition selection" src="https://github.com/user-attachments/assets/007bc394-5d2f-469e-9706-abae7ca484f5" />
+
+---
+<img width="1024" height="768" alt="disk selection" src="https://github.com/user-attachments/assets/aecf479e-7850-43ca-9615-7c2bcc5a46e1" />
+
+---
+
+
+<img width="1024" height="768" alt="installing process server" src="https://github.com/user-attachments/assets/50111318-ec8f-49e7-9553-cd2ab1d30ade" />
+
+---
+
+
+<img width="1024" height="768" alt="server manager" src="https://github.com/user-attachments/assets/a783193e-dd8f-48c3-b327-13de1585dc08" />
+
+---
+
+
+<img width="1024" height="768" alt="website loaded" src="https://github.com/user-attachments/assets/7c0041ab-95e4-491e-a8be-5e87883d9702" />
+
+---
